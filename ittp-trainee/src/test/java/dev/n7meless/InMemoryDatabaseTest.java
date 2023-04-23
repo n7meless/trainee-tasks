@@ -1,5 +1,6 @@
 package dev.n7meless;
 
+import dev.n7meless.db.InMemoryDatabase;
 import org.junit.jupiter.api.*;
 
 import java.time.LocalDate;

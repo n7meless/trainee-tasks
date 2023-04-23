@@ -1,4 +1,4 @@
-package dev.n7meless;
+package dev.n7meless.db;
 
 import dev.n7meless.exception.RowNotFoundException;
 
